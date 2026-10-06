@@ -62,7 +62,7 @@ a clean user interface that people can actually use.
 
 ### Databases and Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman,figma" alt="MySQL, MongoDB, Git, GitHub, VS Code, Postman, Figma" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,github,vscode" alt="MySQL, MongoDB, GitHub, VS Code" />
 
 </div>
 
@@ -72,21 +72,13 @@ a clean user interface that people can actually use.
 
 <table>
   <tr>
-    <td width="25%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>Web Applications</h3>
       <p>Clean UI and full-stack workflows.</p>
     </td>
-    <td width="25%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>Backend Systems</h3>
       <p>REST APIs, auth, and database logic.</p>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h3>AI and Automation</h3>
-      <p>Practical workflows and integrations.</p>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <h3>Problem Solving</h3>
-      <p>Java, DSA, and algorithms.</p>
     </td>
   </tr>
 </table>
@@ -111,12 +103,6 @@ a clean user interface that people can actually use.
     <td width="50%" valign="top">
       <a href="https://github.com/rkotesh/elms">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkotesh&repo=elms&hide_border=true&theme=transparent&title_color=1D4ED8&icon_color=06B6D4&text_color=334155" width="100%" alt="ELMS repository card" />
-      </a>
-      <h3>ELMS</h3>
-      <p>An Employee Learning Management System with separate workflows for admins, managers, and employees.</p>
-      <p><strong>Stack:</strong> Python · Flask · MySQL · SQLAlchemy · Flask-Login</p>
-      <a href="https://github.com/rkotesh/elms">
-        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View ELMS" />
       </a>
     </td>
   </tr>
