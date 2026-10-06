@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=SANKULA%20KOTESWARA%20RAO&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Sankula Koteswara Rao" />
+<h1><strong>SANKULA KOTESWARA RAO</strong></h1>
+
+<h3>AI & ML Student | Full-Stack Developer</h3>
 
 <a href="https://github.com/rkotesh">
   <img src="https://komarev.com/ghpvc/?username=rkotesh&label=Profile%20Views&color=1D4ED8&style=for-the-badge" alt="Profile views" />
