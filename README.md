@@ -2,7 +2,7 @@
 
 <h1><strong>SANKULA KOTESWARA RAO</strong></h1>
 
-<h3>AI & ML Student | Full-Stack Developer</h3>
+<h3>Aspiring Full-Stack Developer</h3>
 
 <a href="https://github.com/rkotesh">
   <img src="https://komarev.com/ghpvc/?username=rkotesh&label=Profile%20Views&color=1D4ED8&style=for-the-badge" alt="Profile views" />
@@ -31,22 +31,19 @@
 
 <table>
   <tr>
-    <td width="28%" align="center" valign="top">
-      <img src="assets/profile.png" width="230" alt="Sankula Koteswara Rao" />
-    </td>
-    <td width="42%" valign="top">
+    <td width="55%" valign="top">
       <p>
-        I enjoy working across the complete development cycle: understanding a
-        problem, designing the solution, building APIs, connecting databases,
-        and shaping a UI that people can actually use.
+        I am an AI and ML student who enjoys building practical software from
+        end to end: clean user interfaces, structured APIs, database-driven
+        workflows, and automation that solves repeated problems.
       </p>
       <p>
-        Currently focused on Java, DSA, React, REST APIs, and full-stack
-        development.
+        Right now, I am focused on Java, DSA, React, REST APIs, Spring Boot,
+        Flask, MySQL, MongoDB, and full-stack project development.
       </p>
     </td>
-    <td width="30%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=rkotesh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=1D4ED8&icon_color=06B6D4&text_color=334155" width="100%" alt="GitHub stats" />
+    <td width="45%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rkotesh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=1D4ED8&icon_color=06B6D4&text_color=334155" width="420" alt="GitHub stats" />
     </td>
   </tr>
 </table>
@@ -55,13 +52,13 @@
 
 ## Tech Stack
 
-<div align="center">
+<div align="left">
 
 <h3>Languages</h3>
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML, CSS" />
 
 <h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,html,css" alt="React, Vite, Bootstrap, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap" alt="React, Vite, Bootstrap" />
 
 <h3>Backend</h3>
 <img src="https://skillicons.dev/icons?i=flask,spring,nodejs" alt="Flask, Spring, Node.js" />
@@ -145,11 +142,6 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkotesh&layout=compact&hide_border=true&theme=transparent&title_color=1D4ED8&text_color=334155" alt="Top languages" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rkotesh&hide_border=true&theme=transparent&ring=1D4ED8&fire=06B6D4&currStreakLabel=1D4ED8" alt="GitHub streak" />
-
-<br/>
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkotesh&theme=github" width="95%" alt="Contribution graph" />
 
 </div>
 
