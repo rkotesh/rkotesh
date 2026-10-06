@@ -75,15 +75,29 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/rkotesh/ciet_erp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkotesh&repo=ciet_erp&hide_border=true&theme=transparent&title_color=1D4ED8&icon_color=06B6D4&text_color=334155" width="100%" alt="CIET ERP repository card" />
-      </a>
+      <h3>College Website</h3>
       <p>
-        College ERP platform for academic workflows, authentication, student
-        management, faculty management, and role-based access.
+        Responsive college website focused on presenting departments, campus
+        information, academic details, and a clean navigation experience.
       </p>
-      <p><strong>Stack:</strong> React · Vite · Spring Boot · Java · MongoDB</p>
+      <p><strong>Focus:</strong> Frontend · Responsive UI · Web design</p>
+      <a href="https://college-website-omega-flax.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Site-1D4ED8?style=for-the-badge" alt="College Website live site" />
+      </a>
     </td>
+    <td width="50%" valign="top">
+      <h3>Portfolio</h3>
+      <p>
+        Personal portfolio website for showcasing skills, projects, experience,
+        and contact details with a simple developer-focused interface.
+      </p>
+      <p><strong>Focus:</strong> Portfolio · Projects · Personal brand</p>
+      <a href="https://kotesh-portfolio-nine.vercel.app/">
+        <img src="https://img.shields.io/badge/Live%20Site-1D4ED8?style=for-the-badge" alt="Portfolio live site" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>Rolla</h3>
       <p>
@@ -92,18 +106,8 @@
       </p>
       <p><strong>Focus:</strong> AI workflows · Web apps · API integrations</p>
       <a href="https://rolla-ai.vercel.app/">
-        <img src="https://img.shields.io/badge/Visit%20Rolla-1D4ED8?style=for-the-badge" alt="Visit Rolla" />
+        <img src="https://img.shields.io/badge/Live%20Site-1D4ED8?style=for-the-badge" alt="Rolla live site" />
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Asset Management System</h3>
-      <p>
-        MERN application for managing organizational assets with authentication,
-        role-based access, uploads, and asset tracking.
-      </p>
-      <p><strong>Stack:</strong> MongoDB · Express · React · Node.js</p>
     </td>
     <td width="50%" valign="top">
       <h3>Backend Systems</h3>
