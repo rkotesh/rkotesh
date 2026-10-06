@@ -12,11 +12,6 @@
   <img src="https://img.shields.io/badge/Repositories-Explore-0F172A?style=for-the-badge&logo=github" alt="GitHub repositories" />
 </a>
 
-<br/>
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=900&color=1D4ED8&center=true&vCenter=true&width=760&lines=Building+practical+software;Backend+systems+and+clean+interfaces;AI-powered+apps+and+automation" alt="Typing intro" />
-
 <p>
   <strong>B.Tech in Artificial Intelligence & Machine Learning · 2027</strong>
 </p>
@@ -34,7 +29,10 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="28%" align="center" valign="top">
+      <img src="assets/profile.png" width="230" alt="Sankula Koteswara Rao" />
+    </td>
+    <td width="42%" valign="top">
       <p>
         I enjoy working across the complete development cycle: understanding a
         problem, designing the solution, building APIs, connecting databases,
@@ -45,7 +43,7 @@
         development.
       </p>
     </td>
-    <td width="40%" valign="top">
+    <td width="30%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=rkotesh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=1D4ED8&icon_color=06B6D4&text_color=334155" width="100%" alt="GitHub stats" />
     </td>
   </tr>
@@ -149,7 +147,7 @@
 <br/>
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rkotesh&hide_border=true&area=true&bg_color=transparent&color=334155&line=1D4ED8&point=06B6D4&area_color=BFDBFE&custom_title=Contribution%20Graph" width="95%" alt="Contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkotesh&theme=github" width="95%" alt="Contribution graph" />
 
 </div>
 
