@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1D4ED8,100:06B6D4&text=SANKULA%20KOTESWARA%20RAO&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Full-Stack%20Developer&descAlignY=59&descSize=18" width="100%" alt="Sankula Koteswara Rao profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1D4ED8,100:06B6D4&text=SANKULA%20KOTESWARA%20RAO&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Student%20%7C%20Full-Stack%20Developer&descAlignY=59&descSize=18" width="100%" alt="Sankula Koteswara Rao" />
 
 <a href="https://github.com/rkotesh">
   <img src="https://komarev.com/ghpvc/?username=rkotesh&label=Profile%20Views&color=1D4ED8&style=for-the-badge" alt="Profile views" />
@@ -12,15 +12,15 @@
   <img src="https://img.shields.io/badge/Repositories-Explore-0F172A?style=for-the-badge&logo=github" alt="GitHub repositories" />
 </a>
 
-<h3>Building practical software with AI, backend systems, and modern web technologies.</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=900&color=1D4ED8&center=true&vCenter=true&width=760&lines=Building+practical+software;Backend+systems+%2B+clean+interfaces;AI-powered+apps+and+automation" alt="Typing intro" />
 
 <p>
   <strong>B.Tech in Artificial Intelligence & Machine Learning · 2027</strong>
 </p>
 
 <p>
-  I enjoy turning ideas into useful applications, from backend APIs and databases
-  to responsive interfaces.
+  I build useful full-stack applications with clean interfaces, reliable backend
+  systems, database-driven workflows, and practical AI automation.
 </p>
 
 </div>
@@ -68,31 +68,25 @@ a clean user interface that people can actually use.
 
 ---
 
-## `03` What I Build
+## `03` Focus Areas
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="25%" align="center" valign="top">
       <h3>Web Applications</h3>
-      <p>Responsive full-stack applications with clean UI, strong data flow, and practical user workflows.</p>
-      <p><strong>Focus:</strong> React, Django, Flask, Spring Boot, REST APIs, database integration</p>
+      <p>Clean UI and full-stack workflows.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" align="center" valign="top">
       <h3>Backend Systems</h3>
-      <p>API-first systems with authentication, database models, role-based workflows, and maintainable structure.</p>
-      <p><strong>Focus:</strong> Python, Java, REST APIs, MySQL, MongoDB, JWT authentication</p>
+      <p>REST APIs, auth, and database logic.</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="25%" align="center" valign="top">
       <h3>AI and Automation</h3>
-      <p>Practical AI-powered workflows that reduce repetitive work and connect useful tools together.</p>
-      <p><strong>Focus:</strong> AI apps, business automation, integrations, workflow automation, no-code tools</p>
+      <p>Practical workflows and integrations.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="25%" align="center" valign="top">
       <h3>Problem Solving</h3>
-      <p>Building stronger fundamentals through algorithms, data structures, and consistent practice.</p>
-      <p><strong>Focus:</strong> Java DSA, algorithms, data structures, LeetCode, GeeksforGeeks</p>
+      <p>Java, DSA, and algorithms.</p>
     </td>
   </tr>
 </table>
@@ -104,29 +98,23 @@ a clean user interface that people can actually use.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/rkotesh/ciet_erp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkotesh&repo=ciet_erp&hide_border=true&theme=transparent&title_color=1D4ED8&icon_color=06B6D4&text_color=334155" width="100%" alt="CIET ERP repository card" />
+      </a>
       <h3>CIET ERP</h3>
       <p>A college management platform for administration, HODs, faculty, students, and academic workflows.</p>
       <p><strong>Stack:</strong> React · Vite · Spring Boot · Java · MongoDB</p>
-      <ul>
-        <li>Role-based academic workflows</li>
-        <li>Student, faculty, and HOD management</li>
-        <li>Authentication and REST API architecture</li>
-        <li>Student portfolio functionality</li>
-      </ul>
       <a href="https://github.com/rkotesh/ciet_erp">
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View CIET ERP" />
       </a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/rkotesh/elms">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkotesh&repo=elms&hide_border=true&theme=transparent&title_color=1D4ED8&icon_color=06B6D4&text_color=334155" width="100%" alt="ELMS repository card" />
+      </a>
       <h3>ELMS</h3>
       <p>An Employee Learning Management System with separate workflows for admins, managers, and employees.</p>
       <p><strong>Stack:</strong> Python · Flask · MySQL · SQLAlchemy · Flask-Login</p>
-      <ul>
-        <li>Role-based dashboards</li>
-        <li>Course and employee management</li>
-        <li>Reports with PDF/CSV generation</li>
-        <li>Authentication and database integration</li>
-      </ul>
       <a href="https://github.com/rkotesh/elms">
         <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View ELMS" />
       </a>
@@ -137,23 +125,11 @@ a clean user interface that people can actually use.
       <h3>Asset Management System</h3>
       <p>A web application for managing organizational assets with secure authentication and role-based access.</p>
       <p><strong>Stack:</strong> MongoDB · Express · React · Node.js</p>
-      <ul>
-        <li>JWT authentication</li>
-        <li>Role-based access</li>
-        <li>Secure file uploads</li>
-        <li>Asset tracking and management</li>
-      </ul>
     </td>
     <td width="50%" valign="top">
       <h3>Rolla</h3>
       <p>An early-stage AI and automation initiative for helping businesses automate repetitive workflows.</p>
       <p><strong>Focus:</strong> Business automation · AI workflows · Web applications · API integrations</p>
-      <ul>
-        <li>Lead management workflows</li>
-        <li>AI-assisted automation ideas</li>
-        <li>No-code and API integrations</li>
-        <li>Business-focused web tools</li>
-      </ul>
       <a href="https://rolla-ai.vercel.app/">
         <img src="https://img.shields.io/badge/Visit%20Rolla-1D4ED8?style=for-the-badge" alt="Visit Rolla" />
       </a>
