@@ -52,21 +52,21 @@
 
 ## Tech Stack
 
-<div align="left">
+### Languages
 
-<h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Python, Java, JavaScript, HTML, CSS" />
+**Python · Java · JavaScript · HTML · CSS**
 
-<h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap" alt="React, Vite, Bootstrap" />
+### Frontend
 
-<h3>Backend</h3>
-<img src="https://skillicons.dev/icons?i=flask,spring,nodejs" alt="Flask, Spring, Node.js" />
+**React · Vite · Bootstrap**
 
-<h3>Databases and Tools</h3>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,github,vscode" alt="MySQL, MongoDB, GitHub, VS Code" />
+### Backend
 
-</div>
+**Flask · Spring Boot · Node.js**
+
+### Databases and Tools
+
+**MySQL · MongoDB · GitHub · VS Code**
 
 ---
 
