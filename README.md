@@ -4,9 +4,6 @@
 
 <h3>Aspiring Full-Stack Developer</h3>
 
-<a href="https://github.com/rkotesh">
-  <img src="https://komarev.com/ghpvc/?username=rkotesh&label=Profile%20Views&color=1D4ED8&style=for-the-badge" alt="Profile views" />
-</a>
 <a href="https://github.com/rkotesh?tab=followers">
   <img src="https://img.shields.io/github/followers/rkotesh?style=for-the-badge&label=Followers&color=06B6D4" alt="GitHub followers" />
 </a>
