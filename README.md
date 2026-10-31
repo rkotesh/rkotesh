@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <h1><strong>SANKULA KOTESWARA RAO</strong></h1>
 
@@ -40,7 +40,7 @@
       </p>
     </td>
     <td width="45%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rkotesh&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=1D4ED8&icon_color=06B6D4&text_color=334155" width="420" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rkotesh&show_icons=true&hide_border=true&theme=dark&title_color=1D4ED8&icon_color=06B6D4&text_color=334155&bg_color=00000000&count_private=true&include_all_commits=true" width="420" alt="GitHub stats" />
     </td>
   </tr>
 </table>
@@ -141,8 +141,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkotesh&layout=compact&hide_border=true&theme=transparent&title_color=1D4ED8&text_color=334155" alt="Top languages" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rkotesh&hide_border=true&theme=transparent&ring=1D4ED8&fire=06B6D4&currStreakLabel=1D4ED8" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkotesh&layout=compact&hide_border=true&theme=dark&title_color=1D4ED8&text_color=334155&bg_color=00000000" alt="Top languages" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rkotesh&hide_border=true&theme=dark&ring=1D4ED8&fire=06B6D4&currStreakLabel=1D4ED8&background=00000000" alt="GitHub streak" />
 
 </div>
 
