@@ -133,14 +133,6 @@ Developing backend applications with authentication, REST APIs, database integra
 
 <div align="center">
 
-<a href="https://github.com/rkotesh">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rkotesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
-</a>
-
-<a href="https://github.com/rkotesh">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkotesh&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</a>
-
 <br/>
 
 <img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=rkotesh&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
